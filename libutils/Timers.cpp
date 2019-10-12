@@ -71,7 +71,6 @@ int toMillisecondTimeoutDelay(nsecs_t referenceTime, nsecs_t timeoutTime)
     return timeoutDelayMillis;
 }
 
-
 /*
  * ===========================================================================
  *      DurationTimer
